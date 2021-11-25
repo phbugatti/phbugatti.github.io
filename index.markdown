@@ -6,11 +6,11 @@ layout: home
 ---
 
 
-#**About Me**
+# **About Me**
 ###Pedro Henrique Bugatti(Pedro H. Bugatti) is an Associate Professor in the Department of Computer at the Federal University of Technology (UTFPR). He received his Ph.D. and MSc. in Computer Science from the University of S\~{a}o Paulo (ICMC-USP) advised by Dr. Agma Juci Machado Traina. 
 
 
-#**Research Interests**
+# **Research Interests**
 
 His research interest are in domain of **Computer Vision**:
 
@@ -22,7 +22,7 @@ His research interest are in domain of **Computer Vision**:
   - Ex:
 
 
-#**Honors and Awards**
+# **Honors and Awards**
 
 
 [Lattes Curriculum](http://lattes.cnpq.br/2177467029991118)

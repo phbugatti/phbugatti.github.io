@@ -5,5 +5,4 @@
 layout: home
 ---
 
-
-Inserir conteúdo
+[Lattes Curriculum](http://lattes.cnpq.br/2177467029991118)

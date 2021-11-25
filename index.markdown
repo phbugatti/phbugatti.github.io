@@ -7,7 +7,7 @@ layout: home
 
 
 # **About Me**
-### Pedro Henrique Bugatti(Pedro H. Bugatti) is an Associate Professor in the Department of Computer at the Federal University of Technology (UTFPR). He received his Ph.D. and MSc. in Computer Science from the University of S\~{a}o Paulo (ICMC-USP) advised by Dr. Agma Juci Machado Traina. 
+## Pedro Henrique Bugatti(Pedro H. Bugatti) is an Associate Professor in the Department of Computer at the Federal University of Technology (UTFPR). He received his Ph.D. and MSc. in Computer Science from the University of São Paulo (ICMC-USP) advised by Dr. Agma Juci Machado Traina. 
 
 
 # **Research Interests**

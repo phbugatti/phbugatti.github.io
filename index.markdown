@@ -26,5 +26,6 @@ His research interest are in domain of **Computer Vision**:
 
 # **Honors and Awards**
 
+[![](icons/lattes.svg)](http://lattes.cnpq.br/2177467029991118)
 
-[Lattes Curriculum](http://lattes.cnpq.br/2177467029991118)
+[Lattes](http://lattes.cnpq.br/2177467029991118)

@@ -17,18 +17,21 @@ Pedro Henrique Bugatti (Pedro H. Bugatti) is an Associate Professor in the Depar
 His research interest are in domain of **Computer Vision**:
 
 - Computer Vision
-  - Ex: 
+  - Ex: Segmentation, Description, Recognition
 - Machine Learning 
-  - Ex:
+  - Ex: Deep Learning, CNNs, Graph Neural Networks
 - Content-based Image Retrieval
-  - Ex:
+  - Ex: Distance Functions, Feature Extraction, Dimensionality Reduction
 
 
 ## **Honors and Awards**
 
-- Among the 10 best MSc. Dissertations - Brazilian Computer Society Congress
-- Distinguish Student Award - Brazilian Computer Society
-- Best Student Award - BSc. in Computer Science
+- First Place in the XV WVC Thesis and Dissertations Contest (MSc. Student Rafael S. Bressan) (2019)
+- Finalist of the 34th Brazilian Symposium on Databases Theses and Dissertations Contest, Brazilian Symposium on Databases (MSs. Student Rafael S. Bressan) (2019)
+- Best Paper Award - IX Demos and Applications Session of the 27th Brazilian Symposium on Databases (SBBD), Brazilian Computer Society (2012) 
+- Among the 10 best MSc. Dissertations - Brazilian Computer Society Congress (2009)
+- Distinguish Student Award - Brazilian Computer Society (2006)
+- Best Student Award - BSc. in Computer Science (2006)
 
 
 ## **Social Networks and Research Indexes**

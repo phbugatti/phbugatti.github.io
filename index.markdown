@@ -22,8 +22,8 @@ His research interest are in domain of **Computer Vision** and **Complex Data**:
   - Ex: Deep Learning, CNNs, Graph Neural Networks
 - Content-based Image Retrieval
   - Ex: Distance Functions, Feature Extraction, Dimensionality Reduction
- - Complex Data
-  - Images, Videos, Sounds, Time Series, Biological Sequences, etc
+- Complex Data
+  - Ex: Images, Videos, Sounds, Time Series, Biological Sequences, etc
 
 
 ## **Honors and Awards**

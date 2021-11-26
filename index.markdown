@@ -14,7 +14,7 @@ Pedro Henrique Bugatti (Pedro H. Bugatti) is an Associate Professor in the Depar
 
 ## **Research Interests**
 
-His research interest are in domain of **Computer Vision**:
+His research interest are in domain of **Computer Vision** and **Complex Data**:
 
 - Computer Vision
   - Ex: Segmentation, Description, Recognition
@@ -22,6 +22,8 @@ His research interest are in domain of **Computer Vision**:
   - Ex: Deep Learning, CNNs, Graph Neural Networks
 - Content-based Image Retrieval
   - Ex: Distance Functions, Feature Extraction, Dimensionality Reduction
+ - Complex Data
+  - Images, Videos, Sounds, Time Series, Biological Sequences, etc
 
 
 ## **Honors and Awards**

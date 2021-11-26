@@ -9,7 +9,7 @@ permalink: /
 
 
 ## **About Me**
-Pedro Henrique Bugatti (Pedro H. Bugatti) is an Associate Professor in the Department of Computer at the Federal University of Technology (UTFPR). He received his Ph.D. and MSc. in Computer Science from the University of São Paulo (ICMC-USP) advised by Dr. Agma Juci Machado Traina. 
+Pedro Henrique Bugatti (Pedro H. Bugatti) is an Associate Professor in the Department of Computer at the Federal University of Technology ([UTFPR](http://www.utfpr.edu.br/english)). He received his Ph.D. and MSc. in Computer Science from the University of São Paulo ([ICMC-USP](https://www.icmc.usp.br/en/)) advised by [Dr. Agma Juci Machado Traina](https://www.icmc.usp.br/en/people?id=4170385). In 2018 he was a Visiting Researcher at the Univeristy of Maryland ([UMD](https://www.umd.edu)) at College Park, Institute for Advanced Computer Studies ([UMIACS](https://www.umiacs.umd.edu)) adivsed/sponsored by [Dr. Larry S. Davis](https://www.cs.umd.edu/people/lsdavis).
 
 
 ## **Research Interests**

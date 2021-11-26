@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Research Team
+title: Our Research Team
 permalink: /team/
 ---
-
-# My Research Team
 
 Current PhD students
 2020 - Murilo Horácio Pereira de Cruz (PhD) on....

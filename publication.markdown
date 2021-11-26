@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-<p align="justify">
-
 # Publications
 
 ### Journals
@@ -71,8 +69,3 @@ Citações:21
 
 - TALARICO NETO, Americo ; FORTES, Renata Pontin Mattos ; TEIXEIRA, Fabiano Costa ; ALVES, Luis Cezar D. ; BUGATTI, Pedro Henrique ; CARVALHO JR., Osvaldo A. . Interfaces Multimodais Dinâmicas Utilizando J2EE. In: Marcos Roberto da Silva Borges; José Gonçalves Pereira Filho. (Org.). Mini-cursos WebMedia 2008. 1ed.Vila Velha - ES: Sociedade Brasileira de Computação SBC, 2008, v. 1, p. 1-48.
 
-
-
-  
-
-</p>

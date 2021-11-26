@@ -31,7 +31,7 @@ His research interest are in domain of **Computer Vision** and **Complex Data**:
 ## **Honors and Awards**
 
 - First Place in the XV WVC Thesis and Dissertations Contest (MSc. Student Rafael S. Bressan) (2019)
-- Finalist of the 34th Brazilian Symposium on Databases Theses and Dissertations Contest, Brazilian Symposium on Databases (MSs. Student Rafael S. Bressan) (2019)
+- Finalist of the 34th Brazilian Symposium on Databases Theses and Dissertations Contest, Brazilian Symposium on Databases (MSc. Student Rafael S. Bressan) (2019)
 - Best Paper Award - IX Demos and Applications Session of the 27th Brazilian Symposium on Databases (SBBD), Brazilian Computer Society (2012) 
 - Among the 10 best MSc. Dissertations - Brazilian Computer Society Congress (2009)
 - Distinguish Student Award - Brazilian Computer Society (2006)

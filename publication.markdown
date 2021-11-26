@@ -9,51 +9,47 @@ permalink: /publications/
 2021
 
 
-- D. F. Pereira, **P. H. Bugatti**, F. M. Lopes, A. L. S. M. de Souza and P. T. M. Saito. Assessing Active Learning Strategies to Improve the Quality Control of the Soybean Seed Vigor, in IEEE Transactions on Industrial Electronics, vol. 68, no. 2, pp. 1675-1683, Feb. 2021, [doi](https://doi.org/10.1109/TIE.2020.2969106)
+- D. F. Pereira, **P. H. Bugatti**, F. M. Lopes, A. L. S. M. de Souza and P. T. M. Saito. Assessing Active Learning Strategies to Improve the Quality Control of the Soybean Seed Vigor, in IEEE Transactions on Industrial Electronics, vol. 68, no. 2, pp. 1675-1683, 2021, [doi](https://doi.org/10.1109/TIE.2020.2969106)
 
-- C. M. Silva, K. A. I. Rosa, P. H. Bugatti, P. T. M. Saito, C. G. Correa, R. S. Yokoyama and S. R. R. Sanches. Method for Selecting Representative Videos for Change Detection Datasets, in Multimedia Tools and Applications, vol. 81, Issue 29, pp. 1-13, November 2021, [doi](https://doi.org/10.1007/s11042-021-11640-2)
+- C. M. Silva, K. A. I. Rosa, P. H. Bugatti, P. T. M. Saito, C. G. Correa, R. S. Yokoyama and S. R. R. Sanches. Method for Selecting Representative Videos for Change Detection Datasets, in Multimedia Tools and Applications, vol. 81, Issue 29, pp. 1-13, 2021, [doi](https://doi.org/10.1007/s11042-021-11640-2)
 
 
 2020
 
-- M. H. P. da Cruz, D. S. Domingues, P. T. M. Saito, A. R. Paschoal and **P. H. Bugatti**. TERL: classification of transposable elements by convolutional neural networks, in Briefings in Bioinformatics, vol. 22, Issue 3, bbaa185, May 2021, [doi](https://doi.org/10.1093/bib/bbaa185)
+- M. H. P. da Cruz, D. S. Domingues, P. T. M. Saito, A. R. Paschoal and **P. H. Bugatti**. TERL: classification of transposable elements by convolutional neural networks, in Briefings in Bioinformatics, vol. 22, Issue 3, bbaa185, 2021, [doi](https://doi.org/10.1093/bib/bbaa185)
 
-- G. Camargo, **P. H. Bugatti**, P. T. M. Saito. Active semi-supervised learning for biological data classification. PLoS One, vol. 15, pp. e0237428, August 2020, [doi](https://doi.org/10.1371/journal.pone.0237428)
+- G. Camargo, **P. H. Bugatti**, P. T. M. Saito. Active semi-supervised learning for biological data classification. PLoS One, vol. 15, pp. e0237428, 2020, [doi](https://doi.org/10.1371/journal.pone.0237428)
 
 
 2019
 
-- PEREIRA, DOUGLAS F. ; BUGATTI, PEDRO H. ; LOPES, FABRICIO M. ; SOUZA, ANDRÉ L.S.M. ; SAITO, PRISCILA T.M. . Contributing to agriculture by using soybean seed data from the tetrazolium test. DATA IN BRIEF, v. 23, p. 103652, 2019.
-Citações:5
+- D. F. Pereira, **P. H. Bugatti**, F. M. Lopes,  A. L. S. M. Souza and P. T. M. Saito. Contributing to agriculture by using soybean seed data from the tetrazolium test. Data in Brief, vol. 23, pp. 103652, 2019, [doi](https://doi.org/10.1016/j.dib.2018.12.090)
 
+- G. V. L. Lima, P. T. M. Saito, F. M. Lopes and **P. H. Bugatti**. Classification of Texture based on Bag-of-Visual-Words through Complex Networks. Expert Systems with Applications, vol. 133, pp. 215-224, 2019, [doi](https://doi.org/10.1016/j.eswa.2019.05.021)
 
-- DE LIMA, GEOVANA V.L. ; SAITO, PRISCILA T.M. ; LOPES, FABRICIO M. ; BUGATTI, PEDRO H. . Classification of Texture based on Bag-of-Visual-Words through Complex Networks. EXPERT SYSTEMS WITH APPLICATIONS, v. 133, p. 215-224, 2019.
-Citações:7
-
-
-- BRESSAN, RAFAEL S. ; BUGATTI, PEDRO H. ; SAITO, PRISCILA T.M. . Breast Cancer Diagnosis through Active Learning in Content-based Image Retrieval. NEUROCOMPUTING, v. 357, p. 1-10, 2019.
+- R. S. Bressan, **P. H. Bugatti** and P. T. M. Saito. Breast Cancer Diagnosis through Active Learning in Content-based Image Retrieval. Neurocomputing, vol. 357, pp. 1-10, 2019, [doi](https://doi.org/10.1016/j.neucom.2019.05.041)
 
 
 2018
 
-- NEGRI, Tatiane Costa ; ALVES, Wonder Alexandre Luz ; BUGATTI, Pedro Henrique ; SAITO, Priscila Tiemi Maeda ; DOMINGUES, Douglas Silva ; PASCHOAL, Alexandre Rossi . Pattern recognition analysis on long noncoding RNAs: a tool for prediction in plants. BRIEFINGS IN BIOINFORMATICS, v. bby034, p. 1-8, 2018.
-Citações:21
+- T. C. Negri, W. A. L. Alves, **P. H. Bugatti**, P. T. M. Saito, D. S. Domingues and A. R. Paschoal. Pattern recognition analysis on long noncoding RNAs: a tool for prediction in plants. Briefings in Bioinformatics, vol. 20, Issue 2, pp. 682-689, 2018, [doi](https://doi.org/10.1093/bib/bby034)
 
-- BRESSAN, RAFAEL S. ; CAMARGO, Guilherme ; BUGATTI, Pedro Henrique ; SAITO, Priscila Tiemi Maeda . Exploring active learning based on representativeness and uncertainty for biomedical data classification. IEEE Journal of Biomedical and Health Informatics, v. 23, p. 1-1, 2018.
+
+- R. S. Bressan, G. Camargo, **P. H. Bugatti**, P. T. M. Saito. Exploring active learning based on representativeness and uncertainty for biomedical data classification. IEEE Journal of Biomedical and Health Informatics, vol. 23, no. 6 pp. 2238-2244, 2018, [doi](https://doi.org/10.1109/JBHI.2018.2881155)
 
 
 2014 
 
-- BUGATTI, PEDRO H.; KASTER, DANIEL S. ; PONCIANO-SILVA, MARCELO ; TRAINA, CAETANO ; AZEVEDO-MARQUES, PAULO M. ; TRAINA, AGMA J.M. . PRoSPer: Perceptual similarity queries in medical CBIR systems through user profiles. Computers in Biology and Medicine, v. 45, p. 8-19, 2014.
+- **P. H. Bugatti**, D. S. Kaster, M. Ponciano-Silva, C. Traina Jr., P. M. Azevedo-Marques and A. J. M. Traina. PRoSPer: Perceptual similarity queries in medical CBIR systems through user profiles. Computers in Biology and Medicine, v. 45, p. 8-19, 2014, [doi](https://doi.org/10.1016/j.compbiomed.2013.11.015)
 
 
 2010
 
-- KASTER, Daniel Santos ; BUGATTI, Pedro Henrique ; TRAINA, Agma Juci Machado ; TRAINA JUNIOR, Caetano . FMI-SiR: A Flexible and Efficient Module for Similarity Searching on Oracle Database. Journal of Information and Data Management - JIDM, v. 1, p. 229-244, 2010.
+- D. S. Kaster, **P. H. Bugatti**, A. J. M. Traina and C. Traina Jr. FMI-SiR: A Flexible and Efficient Module for Similarity Searching on Oracle Database. Journal of Information and Data Management - JIDM, v. 1, p. 229-244, 2010.
 
 2009
 
-- RIBEIRO, Marcela Xavier ; BUGATTI, Pedro Henrique ; TRAINA JUNIOR, Caetano ; MARQUES, Paulo Mazzoncini Azevedo ; ROSA, Natália Abdala ; TRAINA, Agma Juci Machado . Supporting content-based image retrieval and computer-aided diagnosis systems with association rule-based techniques. Data & Knowledge Engineering, v. 1, p. 1-13, 2009.
+- M. X. Ribeiro, P. H. Bugatti, C. Traina Jr, P. M. Azevedo-Marques, N. A. Rosa and A. J. M. Traina. Supporting content-based image retrieval and computer-aided diagnosis systems with association rule-based techniques. Data & Knowledge Engineering, vol. 68, Issue 12, pp. 1370-1382, 2009 [doi](https://doi.org/10.1016/j.datak.2009.07.002)
 
 
 ### Conferences

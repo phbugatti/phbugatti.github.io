@@ -47,6 +47,35 @@ Alumni
 
 - BSc. 
 
+  - Luigi Freitas Cruz
 
+  - Vitor Fabrile Guastala
 
+  - Felipe Seolin Bento
+
+  - Thalia Akemi Kojo
+
+  - Luigi Freitas Cruz
+
+  - Murilo Horacio Pereira da Cruz
+
+  - Yasmim Gouveia Martns
+
+  - Gustavo Viais de Brito Silva
+
+  - Vitor Camargo Soares
+
+  - William Renan Debrino
+
+  - Gianluca Maziero Machado
+
+  - Marcelo Ortiz Paglione Junior
+
+  - Willian Cardoso Horikoshi
+
+  - Renata Carina Soares
+
+  - Gustavo Viais de Brito Silva
+
+  - Douglas Felipe Pereira
 

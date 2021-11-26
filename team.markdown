@@ -22,6 +22,31 @@ Current MSc students
 
 Alumni
 
+- MSc
+
+  - Felipe Franco Costa
+
+  - Murilo Horácio Pereira Cruz 
+
+  - Lucas Messias Valério
+
+  - Marcelo de Souza Júnior
+
+  - Rafael Staiger Bressan
+
+  - Guilherme Camargo
+
+  - Vinícius Picosse Teruel
+  
+  - Geovana Veloso Loureiro De Lima
+
+  - Reginaldo Rocha
+
+  - Marcus Glauco Faria de Santanna
+
+
+- BSc. 
+
 
 
 

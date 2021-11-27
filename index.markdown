@@ -11,7 +11,7 @@ permalink: /
 ![Pedro H. Bugatti](images/bugatti.jpeg)
 
 ## **About Me**
-Pedro Henrique Bugatti (Pedro H. Bugatti) is an Associate Professor in the Department of Computing at the Federal University of Technology ([UTFPR](http://www.utfpr.edu.br/english)). He received his Ph.D. and MSc. in Computer Science from the University of São Paulo ([ICMC-USP](https://www.icmc.usp.br/en/)) advised by [Dr. Agma Juci Machado Traina](https://www.icmc.usp.br/en/people?id=4170385). In 2018 he was a Visiting Researcher at the Univeristy of Maryland ([UMD](https://www.umd.edu)) at College Park, Institute for Advanced Computer Studies ([UMIACS](https://www.umiacs.umd.edu)) advised/sponsored by [Dr. Larry S. Davis](https://www.cs.umd.edu/people/lsdavis).
+Pedro Henrique Bugatti (Pedro H. Bugatti) is an Associate Professor in the Department of Computing at the Federal University of Technology ([UTFPR](http://www.utfpr.edu.br/english)). He received his Ph.D. and MSc. in Computer Science from the University of São Paulo ([ICMC-USP](https://www.icmc.usp.br/en/)) advised by [Dr. Agma Juci Machado Traina](https://www.icmc.usp.br/en/people?id=4170385). In 2018 he was a Visiting Researcher at the Univeristy of Maryland ([UMD](https://www.umd.edu)) at College Park, Institute for Advanced Computer Studies ([UMIACS](https://www.umiacs.umd.edu)), advised/sponsored by [Dr. Larry S. Davis](https://www.cs.umd.edu/people/lsdavis).
 
 
 ## **Research Interests**
@@ -32,9 +32,9 @@ His research interest are in domain of **Computer Vision** and **Complex Data**:
 
 - First Place in the XV WVC Thesis and Dissertations Contest (MSc. Student Rafael S. Bressan) (2019)
 - Finalist of the 34th Brazilian Symposium on Databases Theses and Dissertations Contest, Brazilian Symposium on Databases (MSc. Student Rafael S. Bressan) (2019)
-- Best Paper Award - IX Demos and Applications Session of the 27th Brazilian Symposium on Databases (SBBD), Brazilian Computer Society (2012) 
+- Best Paper Award - IX Demos and Applications Session of the 27th Brazilian Symposium on Databases, Brazilian Computer Society (2012) 
 - Among the 10 best MSc. Dissertations - Brazilian Computer Society Congress (2009)
-- Distinguish Student Award - Brazilian Computer Society (2006)
+- Outstanding Student Award - Brazilian Computer Society (2006)
 - Best Student Award - BSc. in Computer Science (2006)
 
 

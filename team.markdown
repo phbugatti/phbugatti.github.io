@@ -6,7 +6,7 @@ permalink: /team/
 
 # Our Research Team
 
-Professors/Researchers and Colaborators
+### Professors/Researchers and Colaborators
 
 - Prof. Dr. Priscila Tiemi Maeda Saito
   
@@ -21,7 +21,7 @@ Professors/Researchers and Colaborators
 - Prof. Dr. Douglas Silva Domingues
 
 
-Current PhD students
+### Current PhD students
 
 - 2020
 
@@ -32,7 +32,7 @@ Current PhD students
   - Carlos Bertoncelli. Self-supervised learning in complex data contexts.
 
 
-Current MSc students
+### Current MSc students
 
 - 2021
 
@@ -40,9 +40,15 @@ Current MSc students
 
   - Lucas Lira. Unbiased machine learning in complex data classification. 
 
+
+- 2020
+
   - Cristiano Neia de Oliveira Bassani. Semi-supervised convolutional neural networks. 
 
   - Elton Custodio Júnior. Proposal of difficulty maps to meta image segmentation. 
+
+
+- 2019
 
   - William Sayle Marins Silva. Random walk deep image classification. 
 
@@ -51,7 +57,7 @@ Current MSc students
   - Lucas Garcia Batista. Deep learning on graphs to video classification
 
 
-Alumni
+### Alumni
 
 - MSc
 
@@ -86,8 +92,6 @@ Alumni
 
   - Thalia Akemi Kojo
 
-  - Luigi Freitas Cruz
-
   - Murilo Horacio Pereira da Cruz
 
   - Yasmim Gouveia Martns
@@ -105,8 +109,6 @@ Alumni
   - Willian Cardoso Horikoshi
 
   - Renata Carina Soares
-
-  - Gustavo Viais de Brito Silva
 
   - Douglas Felipe Pereira
 

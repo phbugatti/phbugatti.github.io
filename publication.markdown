@@ -172,7 +172,7 @@ permalink: /publications/
 
 ### Book Chapters
 
-- OLIVEIRA, Liliane Santana ; PATERA, Andressa Caroline ; DOMINGUES, Douglas Silva ; SANCHES, Danilo Sipoli ; BUGATTI, Pedro Henrique ; SAITO, Priscila Tiemi Maeda ; MARACAJA-COUTINHO, Vinicius ; DURHAM, Allan Mitchell ; PASCHOAL, Alexandre Rossi . Computational Analysis of Transposable Elements and CircRNAs in PlantsPlants. In: Luis María Vaschetto. (Org.). Plant Circular RNAs: Methods and Protocol. 1ed.New York, NY: Springer US, 2021, v. 2362, p. 147-172.
+- OLIVEIRA, Liliane Santana ; PATERA, Andressa Caroline ; DOMINGUES, Douglas Silva ; SANCHES, Danilo Sipoli ; BUGATTI, Pedro Henrique ; SAITO, Priscila Tiemi Maeda ; MARACAJA-COUTINHO, Vinicius ; DURHAM, Allan Mitchell ; PASCHOAL, Alexandre Rossi . Computational Analysis of Transposable Elements and CircRNAs in Plants. In: Luis María Vaschetto. (Org.). Plant Circular RNAs: Methods and Protocol. 1ed.New York, NY: Springer US, 2021, v. 2362, p. 147-172.
 
 - TRAINA, Agma Juci Machado ; TRAINA JUNIOR, Caetano ; BALAN, Andre Guilherme Ribeiro ; RIBEIRO, Marcela Xavier ; BUGATTI, Pedro Henrique ; SILVA, Carolina Yukari Veludo Watanabe ; MARQUES, Paulo Mazzoncini Azevedo . Feature Extraction and Selection for Decision Making over Medical Images.. In: Thomas Deserno. (Org.). Biomedical Image Processing - Methods and Applications. 1ed.Berlin: Springer-Verlag, 2011, v. , p. 181-209.
 

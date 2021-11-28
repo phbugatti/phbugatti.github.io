@@ -60,7 +60,7 @@ permalink: /team/
 
 ### Alumni
 
-- MSc
+- MSc.
 
   - Felipe Franco Costa
 

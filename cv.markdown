@@ -1,5 +1,5 @@
 ---
 layout: page
-title: CV
+title: My CV
 permalink: /cv-english.pdf
 ---

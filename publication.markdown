@@ -11,7 +11,7 @@ permalink: /publications/
 
 - D. F. Pereira, **P. H. Bugatti**, F. M. Lopes, A. L. S. M. de Souza and P. T. M. Saito. Assessing Active Learning Strategies to Improve the Quality Control of the Soybean Seed Vigor, in IEEE Transactions on Industrial Electronics, vol. 68, no. 2, pp. 1675-1683, 2021, [doi](https://doi.org/10.1109/TIE.2020.2969106)
 
-- C. M. Silva, K. A. I. Rosa, P. H. Bugatti, P. T. M. Saito, C. G. Correa, R. S. Yokoyama and S. R. R. Sanches. Method for Selecting Representative Videos for Change Detection Datasets, in Multimedia Tools and Applications, vol. 81, Issue 29, pp. 1-13, 2021, [doi](https://doi.org/10.1007/s11042-021-11640-2)
+- C. M. Silva, K. A. I. Rosa, **P. H. Bugatti**, P. T. M. Saito, C. G. Correa, R. S. Yokoyama and S. R. R. Sanches. Method for Selecting Representative Videos for Change Detection Datasets, in Multimedia Tools and Applications, vol. 81, Issue 29, pp. 1-13, 2021, [doi](https://doi.org/10.1007/s11042-021-11640-2)
 
 
 2020

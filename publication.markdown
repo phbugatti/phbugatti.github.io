@@ -6,6 +6,25 @@ permalink: /publications/
 
 ### Journals
 
+
+2023
+
+- M. Souza Jr., W. C. Horikoshi, P. T. M. Saito, **P. H. Bugatti**. Soybean seed vigor classification through an effective image learning-based approach. MULTIMEDIA TOOLS AND APPLICATIONS (DORDRECHT. ONLINE), v. 1, p. 1, 2023.
+
+- S. R. R. Sanches, C. G. Correa, B. R. Brum, **P. H. Bugatti**, P. T. M. Saito, C. M. Silva, E. Custodio Jr. Evaluation of Change Detection Algorithms using Difficulty Maps. IEEE Latin America Transactions, v. 21, p. 700-706, 2023
+
+- E. R. Oliveira,  **P. H. Bugatti**, P. T. M. Saito. Assessment of clustering techniques to support the analyses of soybean seed vigor. PLoS One, 2023
+
+
+2022
+
+- L. G. Batista, **P. H. Bugatti**, P. T. M. Saito. Classification of Skin Lesion through Active Learning Strategies. COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE, v. 226, p. 107122, 2022
+
+- R. P. P Souza, C. M. Agulhari, A. Goedtel, **P. H. Bugatti**. Improved robust filter synthesis combining linear matrix inequalities and heuristic algorithms. OPTIMAL CONTROL APPLICATIONS AND METHODS, v. 1, p. 1-16, 2022
+
+- R. S. Moura, S. R. R. Sanches, **P. H. Bugatti**, P. T. M. Saito. Pedestrian traffic lights and crosswalk identification. MULTIMEDIA TOOLS AND APPLICATIONS (DORDRECHT. ONLINE), p. 1-10, 2022.
+
+
 2021
 
 

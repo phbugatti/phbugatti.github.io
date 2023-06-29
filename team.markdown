@@ -42,33 +42,23 @@ permalink: /team/
   - Lucas Lira. Unbiased machine learning in complex data classification. 
 
 
-- 2020
-
-  - Cristiano Neia de Oliveira Bassani. Semi-supervised convolutional neural networks. 
-
-  - Elton Custodio Júnior. Proposal of difficulty maps to meta image segmentation. 
-
-
-- 2019
-
-  - William Sayle Marins Silva. Random walk deep image classification. 
-
-  - Walacy da Silva Campos. Complex data classification through graph measures and pruning
-  
-  - Lucas Garcia Batista. Deep learning on graphs to video classification
-
-
 ### Alumni
 
 - MSc.
 
   - Felipe Franco Costa
 
-  - Murilo Horácio Pereira Cruz 
+  - Murilo Horácio Pereira Cruz
+ 
+  - Cristiano Neia de Oliveira Bassani
 
   - Lucas Messias Valério
+ 
+  - Lucas Garcia Batista
 
   - Marcelo de Souza Júnior
+ 
+  - Elton Custodio Júnior
 
   - Rafael Staiger Bressan
 
@@ -81,6 +71,10 @@ permalink: /team/
   - Reginaldo Rocha
 
   - Marcus Glauco Faria de Santanna
+ 
+  - Walacy da Silva Campos
+ 
+  - William Sdayle Marins Silva
 
 
 - BSc. 

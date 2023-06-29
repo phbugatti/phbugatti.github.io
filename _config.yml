@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Pedro H. Bugatti 
-email: pbugatti at utfpr.edu.br
+email: pbugatti at ufscar.br
 description: >- # this means to ignore newlines until "baseurl:"
-  Associate Professor, Department of Computing, Federal University of Technology (UTFPR) -  Feel free to bookmark this and contact me.
+  Associate Professor, Department of Computing, Federal University of São Carlos (UFSCar) -  Feel free to bookmark this and contact me.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: PedroHBugatti

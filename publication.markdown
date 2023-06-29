@@ -18,11 +18,11 @@ permalink: /publications/
 
 2022
 
-- L. G. Batista, **P. H. Bugatti**, P. T. M. Saito. Classification of Skin Lesion through Active Learning Strategies. COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE, v. 226, p. 107122, 2022
+- L. G. Batista, **P. H. Bugatti**, P. T. M. Saito. Classification of Skin Lesion through Active Learning Strategies. COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE, v. 226, p. 107122, 2022, [doi](https://doi.org/10.1016/j.cmpb.2022.107122)
 
-- R. P. P Souza, C. M. Agulhari, A. Goedtel, **P. H. Bugatti**. Improved robust filter synthesis combining linear matrix inequalities and heuristic algorithms. OPTIMAL CONTROL APPLICATIONS AND METHODS, v. 1, p. 1-16, 2022
+- R. P. P Souza, C. M. Agulhari, A. Goedtel, **P. H. Bugatti**. Improved robust filter synthesis combining linear matrix inequalities and heuristic algorithms. OPTIMAL CONTROL APPLICATIONS AND METHODS, v. 1, p. 1-16, 2022, [doi](https://doi.org/10.1002/oca.2947)
 
-- R. S. Moura, S. R. R. Sanches, **P. H. Bugatti**, P. T. M. Saito. Pedestrian traffic lights and crosswalk identification. MULTIMEDIA TOOLS AND APPLICATIONS (DORDRECHT. ONLINE), p. 1-10, 2022.
+- R. S. Moura, S. R. R. Sanches, **P. H. Bugatti**, P. T. M. Saito. Pedestrian traffic lights and crosswalk identification. MULTIMEDIA TOOLS AND APPLICATIONS (DORDRECHT. ONLINE), p. 1-10, 2022, [doi](https://doi.org/10.1007/s11042-022-12222-6)
 
 
 2021
@@ -72,6 +72,20 @@ permalink: /publications/
 
 
 ### Conferences
+
+2023 
+
+-  W. S. M. Silva, P. T. M. Saito, **P. H. Bugatti**. Image Classification through Graph Neural Networks and Random Walks. In: The 22nd International Conference on Artificial Intelligence and Soft Computing (ICAISC), 2023, Zakopane. Proceedings of the 22nd ICAISC, 2023. v. 1. p. 1-10.
+
+
+2022 
+
+- C. N. O. Bassani, P. T. M. Saito, **P. H. Bugatti**. Assessment of Semi-Supervised approaches applied to Convolutional Neural Networks. In: 21st International Conference on Artificial Intelligence and Soft Computing (ICAISC), 2022, Zakopane. Proceedings of the 21st ICAISC, 2022. v. 1. p. 1-10.
+
+- L. G. Batista, L. G. Garcia, F. F. Cruz, **P. H. Bugatti**, P. T. M. Saito. Aprendizado Ativo Aplicado ao Diagnóstico de Lesões Dermatológicas. In: XVI Brazilian e-Science Workshop, 2022, Rio de Janeiro. Proccedings of the XVI Brazilian e-Science Workshop - CSBC, 2022. p. 1-8.
+
+- C. N. O. Bassani, P. T. M. Saito, **P. H. Bugatti**. Avaliação de abordagens semi-supervisionadas aplicadas a redes neurais convolucionais. In: XVI Brazilian e-Science Workshop, 2022, Rio de Janeiro. Proceedings of the XVI Brazilian e-Science Workshop - CSBC, 2022. p. 9-16.
+
 
 2021 
 

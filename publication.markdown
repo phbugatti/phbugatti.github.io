@@ -6,6 +6,10 @@ permalink: /publications/
 
 ### Journals
 
+2024
+
+S. R. R. Sanches, E. Custódio Jr., C. G. Corrêa, C. Oliveira, V. Freire, P. T. M. Saito, **P. H. Bugatti**. Automatic generation of difficulty maps for datasets using neural network. MULTIMEDIA TOOLS AND APPLICATIONS (DORDRECHT. ONLINE), v. 1, p. 1-18, 2024.
+
 
 2023
 
@@ -89,7 +93,7 @@ permalink: /publications/
 
 2021 
 
-- F. F. Costa, P. T. M. Saito, **P. H. Bugatti**. Video Action Classification through Graph Convolutional Networks. In: 16th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, 2021. Proceedings of the VISAPP, 2021. p. 490-497.
+- F. F. Costa, P. T. M. Saito, **P. H. Bugatti**. Video Action Classification through Graph Convolutional Networks. In: 16th International Conference on Computer Vision Theory and Applications, 2021. Proceedings of the VISAPP, 2021. p. 490-497.
 
 
 - J. M. Tozato, **P. H. Bugatti**, P. T. M. Saito. Active Learning Strategies and Convolutional Neural Networks for Mammogram Classification. In: 20th International Conference on Artificial Intelligence and Soft Computing (ICAISC), 2021, Zakapone - Poland. Lecture Notes in Computer Science. Switzerland: Springer, 2021. v. 1. p. 1-9.

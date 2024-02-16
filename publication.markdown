@@ -209,7 +209,9 @@ permalink: /publications/
 
 ### Book Chapters
 
-- L. S. Oliveira, A. C. Patera, D. S. Domingues, D. S. Sanches, **P. H. Bugatti**, P. T. M. Saito, V. Maracaja-Coutinho, A. M. Durham, A. R. Paschoal. Computational Analysis of Transposable Elements and CircRNAs in Plants. In: Luis María Vaschetto. (Org.). Plant Circular RNAs: Methods and Protocol. 1ed.New York, NY: Springer US, 2021, v. 2362, p. 147-172.
+- R. S. Bressan, **P. H. Bugatti**, P. T. M. Saito. Optimum-path forest and active learning approaches for content-based medical image retrieval. In: Alexandre Xavier Falcão; João Paulo Papa. (Org.). Optimum-Path Forest: Theory, Algorithms, and Applications. 1eded.: Academic Press, 2022, v. , p. 95-207, [doi](https://doi.org/10.1016/B978-0-12-822688-9.00012-8)
+
+- L. S. Oliveira, A. C. Patera, D. S. Domingues, D. S. Sanches, **P. H. Bugatti**, P. T. M. Saito, V. Maracaja-Coutinho, A. M. Durham, A. R. Paschoal. Computational Analysis of Transposable Elements and CircRNAs in Plants. In: Luis María Vaschetto. (Org.). Plant Circular RNAs: Methods and Protocol. 1ed.New York, NY: Springer US, 2021, v. 2362, p. 147-172, [doi](https://doi.org/10.1007/978-1-0716-1645-1_9)
 
 - A. J. M. Traina, C. Traina Junior, A. G. R. Balan, M. X. Ribeiro, **P. H. Bugatti**, C. Y. V. W. Silva, P. M. A. Marques. Feature Extraction and Selection for Decision Making over Medical Images. {Biomedical Image Processing - Methods and Applications}, Editor Thomas Deserno. 1ed.Berlin: Springer-Verlag, p. 181-209, 2011.
 

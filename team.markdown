@@ -37,14 +37,16 @@ permalink: /team/
 
 - 2021
 
-  - Sarah Migliari. Sequences' classification through image representation. 
-
-  - Lucas Lira. Unbiased machine learning in complex data classification. 
+  - Sarah Migliari. Sequences' classification through image representation.
+ 
+  - Bruno Anthony Shimura. To be defined.
 
 
 ### Alumni
 
 - MSc.
+
+  - Lucas Lira
 
   - Felipe Franco Costa
 

@@ -8,7 +8,7 @@ permalink: /publications/
 
 2024
 
-S. R. R. Sanches, E. Custódio Jr., C. G. Corrêa, C. Oliveira, V. Freire, P. T. M. Saito, **P. H. Bugatti**. Automatic generation of difficulty maps for datasets using neural network. MULTIMEDIA TOOLS AND APPLICATIONS (DORDRECHT. ONLINE), v. 1, p. 1-18, 2024.
+- S. R. R. Sanches, E. Custódio Jr., C. G. Corrêa, C. Oliveira, V. Freire, P. T. M. Saito, **P. H. Bugatti**. Automatic generation of difficulty maps for datasets using neural network. MULTIMEDIA TOOLS AND APPLICATIONS (DORDRECHT. ONLINE), v. 1, p. 1-18, 2024.
 
 
 2023

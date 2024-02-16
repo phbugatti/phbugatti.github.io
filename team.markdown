@@ -35,11 +35,13 @@ permalink: /team/
 
 ### Current MSc students
 
+- 2023
+
+  - Bruno Anthony Shimura. To be defined.
+
 - 2021
 
   - Sarah Migliari. Sequences' classification through image representation.
- 
-  - Bruno Anthony Shimura. To be defined.
 
 
 ### Alumni

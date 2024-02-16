@@ -8,16 +8,16 @@ permalink: /publications/
 
 2024
 
-- S. R. R. Sanches, E. Custódio Jr., C. G. Corrêa, C. Oliveira, V. Freire, P. T. M. Saito, **P. H. Bugatti**. Automatic generation of difficulty maps for datasets using neural network. MULTIMEDIA TOOLS AND APPLICATIONS (DORDRECHT. ONLINE), v. 1, p. 1-18, 2024.
+- S. R. R. Sanches, E. Custódio Jr., C. G. Corrêa, C. Oliveira, V. Freire, P. T. M. Saito, **P. H. Bugatti**. Automatic generation of difficulty maps for datasets using neural network. MULTIMEDIA TOOLS AND APPLICATIONS (DORDRECHT. ONLINE), v. 1, p. 1-18, 2024, [doi](https://doi.org/10.1007/s11042-024-18271-3)
 
 
 2023
 
-- M. Souza Jr., W. C. Horikoshi, P. T. M. Saito, **P. H. Bugatti**. Soybean seed vigor classification through an effective image learning-based approach. MULTIMEDIA TOOLS AND APPLICATIONS (DORDRECHT. ONLINE), v. 1, p. 1, 2023.
+- M. Souza Jr., W. C. Horikoshi, P. T. M. Saito, **P. H. Bugatti**. Soybean seed vigor classification through an effective image learning-based approach. MULTIMEDIA TOOLS AND APPLICATIONS (DORDRECHT. ONLINE), v. 1, p. 1, 2023, [doi](https://doi.org/10.1007/s11042-023-15804-0)
 
-- S. R. R. Sanches, C. G. Correa, B. R. Brum, **P. H. Bugatti**, P. T. M. Saito, C. M. Silva, E. Custodio Jr. Evaluation of Change Detection Algorithms using Difficulty Maps. IEEE Latin America Transactions, v. 21, p. 700-706, 2023
+- S. R. R. Sanches, C. G. Correa, B. R. Brum, **P. H. Bugatti**, P. T. M. Saito, C. M. Silva, E. Custodio Jr. Evaluation of Change Detection Algorithms using Difficulty Maps. IEEE Latin America Transactions, v. 21, p. 700-706, 2023, [doi](https://doi.org/10.1109/TLA.2023.10172134)
 
-- E. R. Oliveira,  **P. H. Bugatti**, P. T. M. Saito. Assessment of clustering techniques to support the analyses of soybean seed vigor. PLoS One, 2023
+- E. R. Oliveira,  **P. H. Bugatti**, P. T. M. Saito. Assessment of clustering techniques to support the analyses of soybean seed vigor. PLoS One, 2023, [doi](https://doi.org/10.1371/journal.pone.0285566)
 
 
 2022

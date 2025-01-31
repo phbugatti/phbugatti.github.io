@@ -77,6 +77,13 @@ permalink: /publications/
 
 ### Conferences
 
+2024
+
+- L. G. Souza, S. R. R. Sanches, **P. H. Bugatti**, P. T. M. Saito. Combining Audio and Image Sequence for Video Moment Retrieval by Natural Language. 23rd International Conference on Artificial Intelligence and Soft Computing (ICAISC), 2024, Zakopane. Proceedings of the 23nd ICAISC, 2024. v. 2. p. 1-12.
+
+- A. L. Franco, C. M. Agulhari, **P. H. Bugatti**, P. T. M. Saito.  Classification of cardiac arrhythmias using 1D and 2D convolutional neural networks. 23rd International Conference on Artificial Intelligence and Soft Computing (ICAISC), 2024, Zakopane. Proceedings of the 23nd ICAISC, 2024. v. 3. p. 1-11.
+
+
 2023 
 
 -  W. S. M. Silva, P. T. M. Saito, **P. H. Bugatti**. Image Classification through Graph Neural Networks and Random Walks. In: The 22nd International Conference on Artificial Intelligence and Soft Computing (ICAISC), 2023, Zakopane. Proceedings of the 22nd ICAISC, 2023. v. 1. p. 1-10.

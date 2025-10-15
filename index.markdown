@@ -17,7 +17,6 @@ insert a table wiht one line and two columns and images in each one of them
 :-------------------------:|:-------------------------:
 ![Pedro H. Bugatti](images/bugatti.jpeg) | ![Pedro H. Bugatti](images/bugatti.jpeg) 
 -->
-https://www.dc.ufscar.br
 
 ![Pedro H. Bugatti](images/bugatti-header2.png) 
 
@@ -56,6 +55,7 @@ Overall, his research aims to integrate methodologies across these areas to deve
 ## **Social Networks and Research Indexes**
 
 [![](icons/lattes.png)](http://lattes.cnpq.br/2177467029991118)  [![](icons/google.png)](https://scholar.google.com/citations?user=gsa00cEAAAAJ&hl=en)  [![](icons/dblp.png)](https://dblp.org/pid/13/4202.html)  [![](icons/researchid.png)](https://orcid.org/0000-0001-9421-9254)  [![](icons/linkedin.png)](https://linkedin.com/in/pedro-bugatti-3a564b1a)
+
 
 
 

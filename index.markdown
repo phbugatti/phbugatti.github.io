@@ -23,8 +23,8 @@ insert a table wiht one line and two columns and images in each one of them
 
 ## **About Me**
 <p align="justify">
-Pedro Henrique Bugatti (Pedro H. Bugatti) is an Associate Professor in the Department of Computing at the Federal University of São Carlos ([UFSCar](https://site.dc.ufscar.br)). He received his Ph.D. and MSc. in Computer Science from the University of São Paulo ([ICMC-USP](https://www.icmc.usp.br/en/)) under the supervision [Dr. Agma Juci Machado Traina](https://www.icmc.usp.br/en/people?id=4170385). His research focuses on advancing Artificial Intelligence, with an emphasis on computer vision, multimodal learning, and interpretable modeling. 
-In 2018, he was a Visiting Researcher at the University of Maryland ([UMD](https://www.umd.edu)), College Park, at the Institute for Advanced Computer Studies ([UMIACS](https://www.umiacs.umd.edu)), working under the guidance of [Dr. Larry S. Davis](https://www.cs.umd.edu/people/lsdavis). My current research seeks to bridge fundamental AI research with applications in complex and real-world environments (e.g., healthcare, agriculture, and other socially relevant domains).
+Pedro Henrique Bugatti (Pedro H. Bugatti) is an Associate Professor in the Department of Computing at the Federal University of São Carlos (<a href="https://site.dc.ufscar.br">UFSCar</a>). He received his Ph.D. and MSc. in Computer Science from the University of São Paulo (<a href="https://www.icmc.usp.br/en/">ICMC-USP</a>) under the supervision of <a href="https://www.icmc.usp.br/en/people?id=4170385">Dr. Agma Juci Machado Traina</a>. His research focuses on advancing Artificial Intelligence, with an emphasis on computer vision, multimodal learning, and interpretable modeling.  
+In 2018, he was a Visiting Researcher at the University of Maryland (<a href="https://www.umd.edu">UMD</a>), College Park, at the Institute for Advanced Computer Studies (<a href="https://www.umiacs.umd.edu">UMIACS</a>), working under the guidance of <a href="https://www.cs.umd.edu/people/lsdavis">Dr. Larry S. Davis</a>. My current research seeks to bridge fundamental AI research with applications in complex and real-world environments (e.g., healthcare, agriculture, and other socially relevant domains).
 </p>
 
 ## **Research Interests**
@@ -58,6 +58,7 @@ Overall, his research aims to integrate methodologies across these areas to deve
 ## **Social Networks and Research Indexes**
 
 [![](icons/lattes.png)](http://lattes.cnpq.br/2177467029991118)  [![](icons/google.png)](https://scholar.google.com/citations?user=gsa00cEAAAAJ&hl=en)  [![](icons/dblp.png)](https://dblp.org/pid/13/4202.html)  [![](icons/researchid.png)](https://orcid.org/0000-0001-9421-9254)  [![](icons/linkedin.png)](https://linkedin.com/in/pedro-bugatti-3a564b1a)
+
 
 
 

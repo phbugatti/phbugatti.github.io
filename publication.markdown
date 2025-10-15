@@ -6,6 +6,11 @@ permalink: /publications/
 
 ### Journals
 
+2025
+
+G. Chiquitto, L. S. Oliveira, **P. H. Bugatti**, P. T. M. Saito, M. Basham, R. T. Raittz, A. R. Paschoal. GENNUS: generative approaches for nucleotide sequences enhance mirtron classification. NAR GENOMICS AND BIOINFORMATICS, v. 7, p. 1 (lqaf072)-12, 2025, [doi](https://doi.org/10.1093/nargab/lqaf072)
+
+
 2024
 
 - S. R. R. Sanches, E. Custódio Jr., C. G. Corrêa, C. Oliveira, V. Freire, P. T. M. Saito, **P. H. Bugatti**. Automatic generation of difficulty maps for datasets using neural network. MULTIMEDIA TOOLS AND APPLICATIONS (DORDRECHT. ONLINE), v. 1, p. 1-18, 2024, [doi](https://doi.org/10.1007/s11042-024-18271-3)
@@ -76,6 +81,13 @@ permalink: /publications/
 
 
 ### Conferences
+
+2025
+
+- M. M. Fernandez, A. L. M. Levada, **P. H. Bugatti**. Deep Learning for Protoplanetary Disk Classification from Hubble Images: A Comparative Study on Imbalanced Data. In: 38th Conference on Graphics, Patterns and Images (SIBGRAPI), 2025, Salvador, Brazil. Proceedings of the 38th SIBGRAPI, 2025. pp. 1-6.
+
+- R. C. Masson, K. R. L. J. C. Branco, **P. H. Bugatti**, P. T. M. Saito, R. A. S. Arruda. Analysis of Data and Supervised Machine Learning Algorithms for Intrusion Detection. In: 24th International Conference on Artificial Intelligence and Soft Computing (ICAISC), 2025, Zakopane. Proceedings of the 24th ICAISC, 2025. v. 1, p. 1-8.
+
 
 2024
 

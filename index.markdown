@@ -29,7 +29,6 @@ In 2018, he was a Visiting Researcher at the University of Maryland (<a href="ht
 
 ## **Research Interests**
 
-<p align="justify">
 Pedro H. Bugatti’s research lies at the intersection of **Computer Vision**, **Machine Learning**, and **Complex Data**, with a focus on developing methods for analyzing and understanding diverse data types. His main areas of interest include:
 
 - Computer Vision
@@ -42,7 +41,6 @@ Pedro H. Bugatti’s research lies at the intersection of **Computer Vision**, *
   - Ex: Images, Videos, Sounds, Time Series, Biological Sequences, etc
  
 Overall, his research aims to integrate methodologies across these areas to develop robust, adaptive, and interpretable models for real-world applications.
-</p>
 
 
 ## **Honors and Awards**
@@ -58,6 +56,7 @@ Overall, his research aims to integrate methodologies across these areas to deve
 ## **Social Networks and Research Indexes**
 
 [![](icons/lattes.png)](http://lattes.cnpq.br/2177467029991118)  [![](icons/google.png)](https://scholar.google.com/citations?user=gsa00cEAAAAJ&hl=en)  [![](icons/dblp.png)](https://dblp.org/pid/13/4202.html)  [![](icons/researchid.png)](https://orcid.org/0000-0001-9421-9254)  [![](icons/linkedin.png)](https://linkedin.com/in/pedro-bugatti-3a564b1a)
+
 
 
 

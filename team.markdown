@@ -35,13 +35,24 @@ permalink: /team/
 
 ### Current MSc students
 
+- 2025
+
+  - Antonio Maldonado Guerra da Cunha. To be defined.
+
+  - Dayanni Elias (CAPES Grant). To be defined.
+    
+    
+- 2024
+
+  - Lorenzo Correia Maia (CAPES Grant). To be defined. 
+
+  - Marília Machado Fernandez. To be defined.
+
+
 - 2023
 
-  - Bruno Anthony Shimura. To be defined.
+  - Bruno Anthony Shimura (CAPES Grant). To be defined.
 
-- 2021
-
-  - Sarah Migliari. Sequences' classification through image representation.
 
 
 ### Alumni

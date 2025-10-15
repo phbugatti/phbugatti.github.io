@@ -8,7 +8,7 @@ permalink: /publications/
 
 2025
 
-G. Chiquitto, L. S. Oliveira, **P. H. Bugatti**, P. T. M. Saito, M. Basham, R. T. Raittz, A. R. Paschoal. GENNUS: generative approaches for nucleotide sequences enhance mirtron classification. NAR GENOMICS AND BIOINFORMATICS, v. 7, p. 1 (lqaf072)-12, 2025, [doi](https://doi.org/10.1093/nargab/lqaf072)
+- G. Chiquitto, L. S. Oliveira, **P. H. Bugatti**, P. T. M. Saito, M. Basham, R. T. Raittz, A. R. Paschoal. GENNUS: generative approaches for nucleotide sequences enhance mirtron classification. NAR GENOMICS AND BIOINFORMATICS, v. 7, p. 1 (lqaf072)-12, 2025, [doi](https://doi.org/10.1093/nargab/lqaf072)
 
 
 2024
